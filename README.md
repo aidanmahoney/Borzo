@@ -26,6 +26,12 @@ Borzo is a web-based platform designed to accelerate the **airfoil and wing desi
 
 ---
 
+## 📚 Acknowledgements
+- [CadQuery](https://github.com/CadQuery/cadquery)  
+- [FastAPI](https://fastapi.tiangolo.com/)  
+
+---
+
 ## 🔗 Links
 | Resource         | URL |
 |------------------|-----|
