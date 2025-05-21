@@ -36,7 +36,7 @@ Borzo is a web-based platform designed to accelerate the **airfoil and wing desi
 
 > 🔐 *Code is provided as read-only snippets. Full source is not publicly available.*
 
-## License
+## 📜 License
 
     Copyright [2025] [Aidan Mahoney]
 
