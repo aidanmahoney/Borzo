@@ -7,7 +7,8 @@ Borzo is a web-based platform designed to accelerate the **airfoil and wing desi
 > ⚠️ *Note: This README highlights core functionality. Some advanced backend logic, validation routines, and edge-case handling are excluded for brevity. Please refer to the code snippets and demo links for conceptual understanding.*
 
 > 🚫 **Disclaimer:** This project is shared for demonstration purposes only.  
-> Please **do not clone, download, or reuse** the code without explicit permission.  
+> Please **do not clone, download, or reuse** the code without explicit permission.
+
 > 🛡️ **The core file responsible for generating NACA parts has been intentionally omitted to protect proprietary logic.**
 
 ---
